@@ -1,2 +1,2 @@
 # Piesu
-Web application - a portal for pet owners to publish local advertisements. Application developed using ASP.NET Core WEB API, Vue.js and Microsoft SQL Server.
+Projekt realizowany w ramach pracy inżynierskiej 'Realizacja webowej aplikacji ogłoszeniowej dla właścicieli zwierząt przy użyciu ASP.NET Core oraz Vue.js'
